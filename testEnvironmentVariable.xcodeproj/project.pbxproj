@@ -45,6 +45,7 @@
 		605723BA20ED067000F7E891 /* testEnvironmentVariableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testEnvironmentVariableUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		605723BE20ED067000F7E891 /* testEnvironmentVariableUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testEnvironmentVariableUITests.swift; sourceTree = "<group>"; };
 		605723C020ED067000F7E891 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA1009597A9A440909CAD805 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 				605723B220ED067000F7E891 /* testEnvironmentVariableTests */,
 				605723BD20ED067000F7E891 /* testEnvironmentVariableUITests */,
 				6057239F20ED066E00F7E891 /* Products */,
+				BA1009597A9A440909CAD805 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
